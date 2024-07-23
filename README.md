@@ -7,5 +7,5 @@
 cnt <검색하고픈 키워드>
 ```
 
-## result
+## 실행결과
 ![image](https://github.com/user-attachments/assets/7ee05456-db9b-43e6-8f0a-508c01975fda)
