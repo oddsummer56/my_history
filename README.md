@@ -33,7 +33,12 @@ $ pdm install
 $ pdm list
 $ pytest 
 
-#option
+#option 
+
+git install 말고 수동으로 했을 때
+$ pdm init
+$ pdm venv create
+$ source .venv/bin/activate
 $ pdm add -dG test pytest pytest-cov
 ```
 
