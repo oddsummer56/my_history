@@ -1,6 +1,6 @@
 [project]
 name = "my_history"
-version = "0.1.0"
+version = "0.2.0"
 description = "Default template for PDM package"
 authors = [
     {name = "oddsummer56", email = "oddsummer56@gmail.com"},
@@ -16,4 +16,6 @@ distribution = false
 
 [project.scripts]
 
-cnt = "my_history.cli:cnt"
+cnt = "my_history.cli:query"
+my-history = "my_history.cli2:query"
+
